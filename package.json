@@ -1,0 +1,24 @@
+{
+  "name": "work_spider",
+  "version": "0.0.1",
+  "description": "* depends on\r   * nodejs\r   * puppeteer\r   * mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhang/work_spider.git"
+  },
+  "keywords": [],
+  "author": "LH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhang/work_spider/issues"
+  },
+  "homepage": "https://github.com/lhang/work_spider#readme",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "puppeteer": "^0.11.0"
+  }
+}
